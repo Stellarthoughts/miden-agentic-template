@@ -1,7 +1,7 @@
 [submodule "project-template"]
 	path = project-template
-	url = https://github.com/0xMiden/project-template.git
+	url = https://github.com/Stellarthoughts/miden-project-template.git
 [submodule "frontend-template"]
 	path = frontend-template
-	url = https://github.com/0xMiden/frontend-template.git
+	url = https://github.com/Stellarthoughts/miden-frontend-template.git
 	branch = main
